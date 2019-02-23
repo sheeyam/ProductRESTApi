@@ -1,2 +1,2 @@
 # ProductRESTApi
-This is a sample product REST Api developed on PHP
+A REST Api developed on PHP to retrieve product and product categories
