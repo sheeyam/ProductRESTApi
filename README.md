@@ -1,2 +1,2 @@
 # ProductRESTApi
-A REST Api developed on PHP to retrieve product and product categories
+A REST Api developed on PHP to retrieve Products and Product Categories
